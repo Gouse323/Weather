@@ -91,3 +91,11 @@
 
 /* The styles of the Algolia Places input footer on hover */
 .ap-footer:hover {}
+
+/* Add this CSS to make the image fit in the navbar */
+.logoabc {
+  max-height: 40px; /* Adjust the max height as needed */
+  max-width: 100%; /* Make sure it doesn't exceed the navbar width */
+  margin-right: 10px; /* Optional: Add some margin to the right of the image */
+}
+
